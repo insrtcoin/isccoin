@@ -1,4 +1,4 @@
-coinmpos
+isccoin
 ========
 
 welcome go to this is a mpos pool
